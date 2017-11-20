@@ -1,6 +1,6 @@
 # Rough & Ready
 
-Boost your productivity by creating a Html,Css,Js - files with only one Command.
+Boost your productivity by creating Html,Css,Js - files with only one command.
 You will get a Folder with all three files which directly be embedded into the html – oh and jQuery too!
 
 **1.)** At first download and install node! If you dont know how? -> http://lmgtfy.com/?q=How+to+install+node%3F 
