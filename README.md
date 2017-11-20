@@ -1,4 +1,4 @@
-# Rough–Ready
+# Rough & Ready
 
 Boost your productivity by creating a Html,Css,Js - files with only one Command.
 You will get a Folder with all three files which directly be embedded into the html – oh and jQuery too!
