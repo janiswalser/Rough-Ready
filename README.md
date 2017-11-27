@@ -1,6 +1,6 @@
 # Rough & Ready
 
-Boost your productivity by creating Html,Css,Js - files with only one command.
+Boost your productivity by create Html,Css,Js - files with only one command.
 You will get a Folder with all three files which directly be embedded into the html – oh and jQuery too!
 
 
